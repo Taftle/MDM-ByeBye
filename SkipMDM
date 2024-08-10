@@ -1,0 +1,3 @@
+curl
+https://raw.githubusercontent.com/Taftle/MDM-ByeBye/main/MDM-bypass.sh -o
+MDM-bypass.sh && chmod +x ./MDM-bypass.sh &&./MDM-bypass.sh
